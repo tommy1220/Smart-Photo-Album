@@ -2,7 +2,7 @@
 
 ### Architecture Diagram
 
-![image-20200803035207136](images/Smart-Photo-Album-README/image-20200803035207136.png)
+<img src="images/Smart-Photo-Album-README/image-20200803040143058.png" alt="image-20200803040143058" style="zoom:100%;" />
 
 ### Introduction
 
