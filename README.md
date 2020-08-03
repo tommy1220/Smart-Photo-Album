@@ -1,5 +1,9 @@
 # Smart Photo Album
 
+https://www.youtube.com/watch?v=xSYp1JsPXb8
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=https://www.youtube.com/watch?v=xSYp1JsPXb8
+
 ### Architecture Diagram
 
 <img src="images/Smart-Photo-Album-README/image-20200803040143058.png" alt="image-20200803040143058" style="zoom:100%;" />
